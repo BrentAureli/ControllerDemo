@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/brentaureli/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.7.0/1b08c96132448b5ab9c0cc8dea3e985dcf0166fd/gdx-1.7.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1b08c96132448b5ab9c0cc8dea3e985dcf0166fd">
+        <dex dex="/Users/brentaureli/Google Drive/Dev/OverlayDemo/android/build/intermediates/pre-dexed/debug/gdx-1.7.0-4865b3914b5682d2e68c0098094387ca2d56325a.jar" />
+    </item>
+    <item
+        jar="/Users/brentaureli/Google Drive/Dev/OverlayDemo/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d939d69495875adbbcaa5b43f4dd3a47d601574a">
+        <dex dex="/Users/brentaureli/Google Drive/Dev/OverlayDemo/android/build/intermediates/pre-dexed/debug/core-1.0-efa4093a6ccadfedfbed842ad7eaf9ee9a30f5cf.jar" />
+    </item>
+    <item
+        jar="/Users/brentaureli/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.7.0/a560f1f94b939f2b5ccd4eec752797c3ea6e1c92/gdx-box2d-1.7.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a560f1f94b939f2b5ccd4eec752797c3ea6e1c92">
+        <dex dex="/Users/brentaureli/Google Drive/Dev/OverlayDemo/android/build/intermediates/pre-dexed/debug/gdx-box2d-1.7.0-2298da989c95c8d5ce20d2ee8a8f7248732f4d56.jar" />
+    </item>
+    <item
+        jar="/Users/brentaureli/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.7.0/d8c0e81a68812893d0bf80cea37fbcba9f23d38b/gdx-backend-android-1.7.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d8c0e81a68812893d0bf80cea37fbcba9f23d38b">
+        <dex dex="/Users/brentaureli/Google Drive/Dev/OverlayDemo/android/build/intermediates/pre-dexed/debug/gdx-backend-android-1.7.0-c35d0fc625f560eea818bb9241f2345f92059033.jar" />
+    </item>
+
+</items>
